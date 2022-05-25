@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chase-Forestello
 - 👀 I’m interested in coding, problem solving, gaming, conservation
 - 🌱 I’m currently learning Full Stack Development
-- 📫 EMAIL: cforestello@gmail.com
+- 📫 EMAIL: chase.forestello@gmail.com
 
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

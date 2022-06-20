@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chase-Forestello
-- 👀 I’m interested in coding, problem solving, gaming, conservation
+- 👀 I’m interested in coding, gaming, and golf!
 - 🌱 I’m currently learning Full Stack Development
 - 📫 EMAIL: chase.forestello@gmail.com
 

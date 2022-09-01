@@ -8,7 +8,7 @@
 
 <h3 align="left">Find me on LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chase-forestello/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChaseForestelloLinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chase-forestello/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ChaseForestelloLinkedIn" height="30" width="40" /></a>
 </p>
 
 <!---

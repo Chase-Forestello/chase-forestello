@@ -3,7 +3,7 @@ Software Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, intuitive, secure, and efficient experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning React!
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my [Portfolio][portfolio]!
 

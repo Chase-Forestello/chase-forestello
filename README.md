@@ -3,9 +3,9 @@ Software Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, intuitive, secure, and efficient experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently learning React (https://www.codecademy.com/learn/react-101)!
+- 🌱 I’m currently learning [React]
 - 📫 EMAIL: chase.forestello@gmail.com
-- 💻 Check out my [Portfolio][portfolio]!
+- 💻 Check out my [Portfolio]!
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
@@ -27,6 +27,7 @@ Software Developer</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chase-forestello&show_icons=true&locale=en&layout=compact" alt="chase-forestello"/>
 
 [portfolio]:https://chase-forestello.github.io/portfolio
+[react]:https://www.codecademy.com/learn/react-101
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -3,7 +3,7 @@ Software Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently learning [React] and working on [Hangry]!
+- 🌱 I’m currently learning [React] and working on a [Golf app]!
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my [Portfolio]!
 
@@ -28,7 +28,7 @@ Software Developer</h1>
 
 [portfolio]:https://chase-forestello.github.io/portfolio
 [react]:https://www.codecademy.com/learn/react-101
-[hangry]:https://github.com/HangryDevelopment
+[Golf app]:https://github.com/Chase-Forestello/golf-app
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

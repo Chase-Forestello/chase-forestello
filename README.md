@@ -3,7 +3,7 @@ Software Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently learning [React] and working on a [Golf app]!
+- 🌱 I’m currently doing a [frontend course] and working on a small [Golf app]!
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my [Portfolio]!
 
@@ -27,7 +27,7 @@ Software Developer</h1>
 <br>
 
 [portfolio]:https://chase-forestello.github.io/portfolio
-[react]:https://www.codecademy.com/learn/react-101
+[frontend course]:https://www.codecademy.com/learn/react-101](https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-22-introduction-to-front-end-engineer-career-path/modules/fecp-22-getting-started/informationals/fecp-22-welcome-to-front-end-engineer-career-path
 [Golf app]:https://github.com/Chase-Forestello/golf-app
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

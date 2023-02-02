@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm Chase Forestello<br><br>
-Software Developer</h1>
+Front-End Web Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!

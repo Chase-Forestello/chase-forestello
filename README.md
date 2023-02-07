@@ -3,7 +3,7 @@ Front-End Web Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently doing a [frontend course] and working on a small [Golf app]!
+- 🌱 I’m currently working on a [JavaScript30]!
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my [Portfolio]!
 
@@ -27,8 +27,7 @@ Front-End Web Developer</h1>
 <br>
 
 [portfolio]:https://chase-forestello.github.io/portfolio
-[frontend course]:https://join.codecademy.com/learn/paths/front-end-engineer-career-path/
-[Golf app]:https://github.com/Chase-Forestello/golf-app
+[JavaScript30]:https://javascript30.com/
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

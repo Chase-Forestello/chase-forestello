@@ -3,7 +3,7 @@ Front-End Web Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently working on a [JavaScript30]!
+- 🌱 I’m currently working on a [JavaScript30] and a [React portfolio]!
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my [Portfolio]!
 
@@ -28,6 +28,7 @@ Front-End Web Developer</h1>
 
 [portfolio]:https://chase-forestello.github.io/portfolio
 [JavaScript30]:https://javascript30.com/
+[React portfolio]: https://github.com/Chase-Forestello/react-portfolio
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

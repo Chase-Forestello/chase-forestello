@@ -5,7 +5,7 @@ Front-End Web Developer</h1>
 - 👀 My interests include coding, gaming, and golf!
 - 🌱 I’m currently working on a new [React portfolio]!
 - 📫 EMAIL: chase.forestello@gmail.com
-- 💻 Check out my old [Portfolio]!
+- 💻 Check out my current [Portfolio]!
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">

@@ -3,7 +3,7 @@ Web Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently working on a new [React portfolio]!
+- 🌱 I’m currently working on a mock business website & learning PostgreSQL!
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my current [Portfolio]!
 
@@ -25,10 +25,7 @@ Web Developer</h1>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br>
-
-[portfolio]:https://chase-forestello.github.io/portfolio
-[JavaScript30]:https://javascript30.com/
-[React portfolio]: https://github.com/Chase-Forestello/react-portfolio
+[portfolio]: https://github.com/Chase-Forestello/react-portfolio
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

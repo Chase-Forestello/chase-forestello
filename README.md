@@ -5,7 +5,7 @@ Web Developer</h1>
 - 👀 My interests include coding, gaming, and golf!
 - 🌱 I’m currently working on a mock business website & learning PostgreSQL!
 - 📫 EMAIL: chase.forestello@gmail.com
-- 💻 Check out my current [portfolio]!
+- 💻 Check out my current [Portfolio]!
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
@@ -25,6 +25,7 @@ Web Developer</h1>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br>
+
 [portfolio]: https://github.com/Chase-Forestello/react-portfolio
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

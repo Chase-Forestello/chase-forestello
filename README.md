@@ -5,7 +5,7 @@ Web Developer</h1>
 - 👀 My interests include coding, gaming, and golf!
 - 🌱 I’m currently working on a mock business website & learning PostgreSQL!
 - 📫 EMAIL: chase.forestello@gmail.com
-- 💻 Check out my current [Portfolio]!
+- 💻 Check out my current [portfolio]!
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">

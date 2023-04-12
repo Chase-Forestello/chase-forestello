@@ -3,7 +3,7 @@ Web Developer</h1>
 
 - 👨‍💻 I'm dedicated to writing clean code that delivers seamless, secure, efficient, and intuitive experiences.
 - 👀 My interests include coding, gaming, and golf!
-- 🌱 I’m currently working on [Hangry] & learning PostgreSQL!
+- 🌱 I’m currently working on [Hangry]
 - 📫 EMAIL: chase.forestello@gmail.com
 - 💻 Check out my current [Portfolio]!
 

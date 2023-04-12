@@ -26,7 +26,7 @@ Web Developer</h1>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br>
 
-[portfolio]: https://chase-forestello.github.io/react-portfolio/
+[portfolio]: https://www.chaseforestello.com
 [hangry]: https://www.hangry.tk/
 <!---
 Chase-Forestello/Chase-Forestello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
